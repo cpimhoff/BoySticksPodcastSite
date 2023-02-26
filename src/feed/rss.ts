@@ -13,7 +13,7 @@ async function getRssFeed() {
     feed_url: `${siteUrl}/rss.xml`,
     image_url: `${siteUrl}/albumart.png`,
     pubDate: now,
-    copyright: `All rights reserved ${now.getFullYear()}, Charlie Imhoff`,
+    copyright: `All rights reserved ${now.getFullYear()}, Dylan Forbes and Charlie Imhoff`,
   };
 
   const feed = new RSS(options);
