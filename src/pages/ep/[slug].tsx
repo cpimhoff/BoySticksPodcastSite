@@ -11,9 +11,15 @@ export default function EpPage({ episode }: EpPageProps) {
       <h2 className="text font-bold text-slate-600">
         {dayjs(episode.timestamp).format("MMMM D, YYYY")}
       </h2>
-      <p className="mt-8">{episode.description}</p>
+      <p className="my-8">{episode.description}</p>
 
-      {/* TODO: Media player or something */}
+      <a
+        href={episode.fileUrl}
+        target="_blank"
+        className="py-2 px-4 inline-block bg-slate-100 hover:bg-slate-200 b-slate-500 text-center transition-colors"
+      >
+        Download
+      </a>
     </div>
   );
 }
