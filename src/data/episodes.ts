@@ -5,7 +5,7 @@ const ALL_EPISODES: Episode[] = [
     title: "Horizon Forbidden West",
     slug: "horizon-forbidden-west",
     description:
-      "The BoySticks gab on for a while about the sequel to Horizon Zero Dawn.",
+      "Join the BoySticks as they make at least one decent point about the sequel to Guerilla Games' \"Horizon Zero Dawn\" between digressions into physics and human reproduction. Unfortunately the game's MarioKart mechanic is not discussed.",
     timestamp: "2023-03-05",
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/1_Horizon_Forbidden_West.mp3",
