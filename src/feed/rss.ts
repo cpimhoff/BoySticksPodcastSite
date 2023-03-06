@@ -6,7 +6,7 @@ import RSS from "rss";
 async function getRssFeed() {
   const siteUrl = process.env.BASE_URL ?? "localhost";
   const feedUrl = `${siteUrl}/rss.xml`;
-  const albumArt = `${siteUrl}/album.png`;
+  const albumArt = `${siteUrl}/album.jpg`;
 
   const now = new Date();
   const options: RSS.FeedOptions = {
