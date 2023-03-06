@@ -29,8 +29,8 @@ async function getRssFeed() {
       { "itunes:type": "episodic" },
       {
         "itunes:owner": [
-          { "itunes:name": "Charlie Imhoff" },
-          { "itunes:email": "cpimhoffdesign@gmail.com" },
+          { "itunes:name": "Dylan Forbes" },
+          { "itunes:email": "dylandforbes@gmail.com" },
         ],
       },
       {
