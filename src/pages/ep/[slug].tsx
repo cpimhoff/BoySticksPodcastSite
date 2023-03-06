@@ -16,7 +16,7 @@ export default function EpPage({ episode }: EpPageProps) {
       <a
         href={episode.fileUrl}
         target="_blank"
-        className="py-2 px-4 inline-block bg-slate-100 hover:bg-slate-200 b-slate-500 text-center transition-colors"
+        className="py-2 px-4 rounded-md inline-block bg-slate-100 hover:bg-slate-200 active:bg-slate-300 text-center transition-colors"
       >
         Download
       </a>
