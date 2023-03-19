@@ -5,7 +5,7 @@ const ALL_EPISODES: Episode[] = [
     title: "God of War: Ragnarok (Part 1)",
     slug: "god-of-war-ragnarok-part-1",
     description:
-      "Recall your Leviathan Axe and equip your Sigil Arrows, cuz today the BoySticks are tackling 'God of War: Ragnarok'. There's so much plot to discuss that they barely even have time to argue over the important issues, like: Is Faye hot?",
+      "Recall your Leviathan Axe and equip your Sigil Arrows, cuz today the BoySticks are tackling \"God of War: Ragnarok\". There's so much plot to discuss that they barely even have time to argue over the important issues, like: Is Faye hot?",
     timestamp: "2023-03-18",
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/2_God_of_War_Ragnarok_1.mp3"
