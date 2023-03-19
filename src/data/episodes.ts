@@ -2,6 +2,15 @@ import { Episode } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "God of War: Ragnarok (Part 2)",
+    slug: "god-of-war-ragnarok-part-2",
+    description:
+      "In this sequel to critically-acclaimed BoySticks episode \"God of War: Ragnarok (Part 1)\", the BoySticks discuss the second half of the critically-acclaimed sequel \"God of War: Ragnarok\". It's all the analysis and antics you know and love, PLUS the dramatic debut of long-anticipated segment \"The D Pad\".",
+    timestamp: "2023-03-19",
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/2_God_of_War_Ragnarok_2.mp3"
+  },
+  {
     title: "God of War: Ragnarok (Part 1)",
     slug: "god-of-war-ragnarok-part-1",
     description:
