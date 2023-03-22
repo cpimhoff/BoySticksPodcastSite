@@ -2,6 +2,7 @@
 
 # built assets
 /public/rss.xml
+/public/rss_draft.xml
 
 # dependencies
 /node_modules

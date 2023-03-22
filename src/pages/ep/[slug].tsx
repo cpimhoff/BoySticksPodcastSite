@@ -9,7 +9,7 @@ export default function EpPage({ episode }: EpPageProps) {
     <div>
       <h1 className="text-2xl font-black">{episode.title}</h1>
       <h2 className="text font-bold text-slate-600">
-        {dayjs(episode.timestamp).format("MMMM D, YYYY")}
+        {dayjs(episode.releasedOn).format("MMMM D, YYYY")}
       </h2>
       <p className="my-8">{episode.description}</p>
 
@@ -26,7 +26,7 @@ export default function EpPage({ episode }: EpPageProps) {
 
 export async function getStaticProps({ params }: { params: EpPageParams }) {
   const { slug } = params;
-  const episodes = await getAllEpisodes();
+  const episodes = await getAllEpisodes("release");
   const episode = episodes.find((ep) => ep.slug === slug);
   if (!episode) throw new Error("No episode with slug: " + slug);
   const props: EpPageProps = { episode };
@@ -34,7 +34,7 @@ export async function getStaticProps({ params }: { params: EpPageParams }) {
 }
 
 export async function getStaticPaths() {
-  const episodes = await getAllEpisodes();
+  const episodes = await getAllEpisodes("release");
   const paths: { params: EpPageParams }[] = episodes.map((ep) => ({
     params: { slug: ep.slug },
   }));

@@ -29,7 +29,7 @@ export default function Home({ episodes }: HomePageProps) {
 }
 
 export async function getStaticProps() {
-  const episodes = await getAllEpisodes();
+  const episodes = await getAllEpisodes("release");
   const props: HomePageProps = { episodes };
   return { props };
 }

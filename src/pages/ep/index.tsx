@@ -8,7 +8,7 @@ export default function EpIndexPage({ episodes }: EpIndexPageProps) {
 }
 
 export async function getStaticProps() {
-  const episodes = await getAllEpisodes();
+  const episodes = await getAllEpisodes("release");
   const props: EpIndexPageProps = { episodes };
   return { props };
 }
