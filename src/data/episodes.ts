@@ -2,6 +2,14 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Final Fantasy VII Remake",
+    slug: "final-fantasy-vii-remake",
+    description: "Final description goes here",
+    releasedOn: null,
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/03_Final_Fantasy_VII_Remake.mp3",
+  },
+  {
     title: "God of War: Ragnarok (Part 2)",
     slug: "god-of-war-ragnarok-part-2",
     description:
@@ -27,14 +35,6 @@ const ALL_EPISODES: Episode[] = [
     releasedOn: "2023-03-05",
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/01_Horizon_Forbidden_West.mp3",
-  },
-  {
-    title: "Test Draft Episode",
-    slug: "test-draft-episode",
-    description: "This is a test",
-    releasedOn: null,
-    fileUrl:
-      "https://quicksounds.com/uploads/tracks/1386061419_1045612023_2051078236.mp3",
   },
 ];
 
