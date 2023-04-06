@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Final Fantasy VII Remake",
     slug: "final-fantasy-vii-remake",
-    description: "Final description goes here",
-    releasedOn: null,
+    description: "Being new in town is hard for Cloud, who doesn't have many friends. To try and impress 2 of his 3 girlfriends, he decides to blow up a nuclear reactor. Shenanigans ensue.",
+    releasedOn: "2023-04-06",
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/03_Final_Fantasy_VII_Remake.mp3",
   },
