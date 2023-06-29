@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Wild Hearts",
+    slug: "wild-hearts",
+    description: "Why do you listen to podcasts? For glory? For sport? Perhaps simply to discover that answer for yourself. Join the BoySticks as they discuss the monsters, weapons and 'story' of I Can't Believe It's Not Monster Hunter.",
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/04_Wild_Hearts.mp3",
+  },
+  {
     title: "Final Fantasy VII Remake",
     slug: "final-fantasy-vii-remake",
     description: "Being new in town is hard for Cloud, who doesn't have many friends. To try and impress 2 of his 3 girlfriends, he decides to blow up a nuclear reactor. Shenanigans ensue.",
