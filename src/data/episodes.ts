@@ -5,6 +5,7 @@ const ALL_EPISODES: Episode[] = [
     title: "Wild Hearts",
     slug: "wild-hearts",
     description: "Why do you listen to podcasts? For glory? For sport? Perhaps simply to discover that answer for yourself. Join the BoySticks as they discuss the monsters, weapons and 'story' of I Can't Believe It's Not Monster Hunter.",
+    releasedOn: null,
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/04_Wild_Hearts.mp3",
   },
