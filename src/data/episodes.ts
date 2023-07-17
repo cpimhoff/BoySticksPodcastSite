@@ -2,6 +2,14 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "The Legend of Zelda: Tears of the Kingdom",
+    slug: "the-legend-of-zelda-tears-of-the-kingdom",
+    description: "tbd",
+    releasedOn: null,
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom.mp3",
+  },
+  {
     title: "Wild Hearts",
     slug: "wild-hearts",
     description: "Why do you listen to podcasts? For glory? For sport? Perhaps simply to discover that answer for yourself. Join the BoySticks as they discuss the monsters, weapons and 'story' of I Can't Believe It's Not Monster Hunter.",
