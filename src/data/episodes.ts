@@ -2,12 +2,20 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
-    title: "The Legend of Zelda: Tears of the Kingdom",
-    slug: "the-legend-of-zelda-tears-of-the-kingdom",
+    title: "The Legend of Zelda: Tears of the Kingdom (Part 2)",
+    slug: "the-legend-of-zelda-tears-of-the-kingdom-part-2",
     description: "tbd",
     releasedOn: null,
     fileUrl:
-      "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom.mp3",
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom_2.mp3",
+  },
+  {
+    title: "The Legend of Zelda: Tears of the Kingdom (Part 1)",
+    slug: "the-legend-of-zelda-tears-of-the-kingdom-part-1",
+    description: "tbd",
+    releasedOn: null,
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom_1.mp3",
   },
   {
     title: "Wild Hearts",
