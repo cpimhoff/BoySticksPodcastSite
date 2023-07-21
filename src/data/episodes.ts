@@ -4,7 +4,7 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "The Legend of Zelda: Tears of the Kingdom (Part 2)",
     slug: "the-legend-of-zelda-tears-of-the-kingdom-part-2",
-    description: "tbd",
+    description: "Hold on there, buster! I have it on the authority of someone who looks just like Zelda that *no one* is allowed to listen to this episode under any circumstances. (Unless, of course, they manage to bring me 20 Fortified Pumpkins, which are my ultimate weakness!) So yeah, you heard me, back off!<br/>Clickbait title: DYLAN ALMOST GETS KICKED OFF THE POD FOR NOT CARING ABOUT TARREY TOWN!!! ARE THE BOYSTICKS GONE FOR GOOD???",
     releasedOn: null,
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom_2.mp3",
@@ -12,7 +12,7 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "The Legend of Zelda: Tears of the Kingdom (Part 1)",
     slug: "the-legend-of-zelda-tears-of-the-kingdom-part-1",
-    description: "tbd",
+    description: "Cryonis. Magnesis. Bomb. Stasis. Long ago, the four Runes lived together in harmony. Then, everything changed when the Zonai Nation attacked. Six years passed, and my co-host and I discovered a new set of abilities, controlled by a Hylian named Link. And although his swordfighting skills may be great, he has a lot to learn before he's ready to engineer anything. But I believe, Link can save the Zelda.",
     releasedOn: null,
     fileUrl:
       "https://boysticks-podcast.s3.amazonaws.com/episodes/05_The_Legend_of_Zelda_Tears_of_the_Kingdom_1.mp3",
