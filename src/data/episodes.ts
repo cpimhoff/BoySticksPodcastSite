@@ -2,6 +2,14 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Final Fantasy XVI",
+    slug: "final-fantasi-xvi",
+    description: "Great Greagor's Gash! The BoySticks are back, and this time they have a brand new episode format that is sure to disappoint all fans of their earlier work. Plus, Dylan sadly forgets to make his great joke 'This game is an RPG in the same way that LaCroix is a beverage'. Top that off with the fact that they don't even <em>mention</em> everyone's favorite character (Medicine Girl), this one is definitely worth skipping.",
+    releasedOn: null,
+    fileUrl:
+      "https://boysticks-podcast.s3.amazonaws.com/episodes/06_Final_Fantasy_XVI.mp3",
+  },
+  {
     title: "The Legend of Zelda: Tears of the Kingdom (Part 2)",
     slug: "the-legend-of-zelda-tears-of-the-kingdom-part-2",
     description: "Hold on there, buster! I have it on the authority of someone who looks just like Zelda that *no one* is allowed to listen to this episode under any circumstances. (Unless, of course, they manage to bring me 20 Fortified Pumpkins, which are my ultimate weakness!) So yeah, you heard me, back off!<br/><br/>Clickbait title: DYLAN ALMOST GETS KICKED OFF THE POD FOR NOT CARING ABOUT TARREY TOWN!!! ARE THE BOYSTICKS GONE FOR GOOD???",
