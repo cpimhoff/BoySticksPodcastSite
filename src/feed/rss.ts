@@ -19,7 +19,7 @@ async function getRssFeed(channel: RssChannel) {
     image_url: albumArt,
     pubDate: now,
     language: "en-us",
-    copyright: `All rights reserved ${now.getFullYear()}, Dylan Forbes and Charlie Imhoff`,
+    copyright: `All rights reserved ${now.getFullYear()}, Dylan Forbes and Charlie Imhoff, except where noted.`,
     custom_namespaces: {
       itunes: "http://www.itunes.com/dtds/podcast-1.0.dtd",
     },
