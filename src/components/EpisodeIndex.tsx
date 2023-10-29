@@ -19,7 +19,7 @@ export default function EpisodeIndex({ episodes }: EpisodeIndexProps) {
               <h4 className="text-slate-500">
                 {dayjs(ep.releasedOn).format("MMMM D, YYYY")}
               </h4>
-              <p
+              <div
                 className="mt-2"
                 dangerouslySetInnerHTML={{
                   __html: ep.description,

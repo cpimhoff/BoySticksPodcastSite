@@ -11,7 +11,7 @@ export default function EpPage({ episode }: EpPageProps) {
       <h2 className="text font-bold text-slate-600">
         {dayjs(episode.releasedOn).format("MMMM D, YYYY")}
       </h2>
-      <p
+      <div
         className="my-8"
         dangerouslySetInnerHTML={{
         __html: episode.description,
