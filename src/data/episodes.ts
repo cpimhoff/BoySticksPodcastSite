@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Returnal",
+    slug: "returnal",
+    description: "A xeno-type audio artifact apparently authored with intent to [UNKNOWN ERROR]. The energy signature of this data bundle matches that of [CORRUPTED TEXT]. Interaction appears safe, but may cause [DATABASE MISMATCH] if consumed in excess. Upon inspection of the metadata, the following message reveals itself:.<br/><br/>*^;.\\n't care how many titans she killed; Tali Acheron can suck my ba*#[]]/{",
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/07_Returnal.mp3",
+  },
+  {
     title: "Final Fantasy XVI",
     slug: "final-fantasi-xvi",
     description: `Great Greagor's Gash! The BoySticks are back, and this time they have a brand new episode format that is sure to disappoint all fans of their earlier work. Additional letdowns include: (1) Dylan forgets to make his great joke 'This game is an RPG in the same way that LaCroix is a beverage'; and (2) at no point does either host even <em>mention</em> everyone's favorite character (Medicine Girl)! Of all the episodes on which they could have chosen to renounce copyright, they had to pick this one. Figures.<br/><br/><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://boysticks.cpimhoff.com/ep/final-fantasy-xvi">BoySticks Podcast, Episode "Final Fantasy XVI"</a> by <span property="cc:attributionName">Dylan Forbes and Charlie Imhoff</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>`,
