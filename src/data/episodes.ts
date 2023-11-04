@@ -4,7 +4,7 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Returnal",
     slug: "returnal",
-    description: "A xeno-type audio artifact apparently authored with intent to [UNKNOWN ERROR]. The energy signature of this data bundle matches that of [CORRUPTED TEXT]. Interaction appears safe, but may cause [DATABASE MISMATCH] if consumed in excess. Upon inspection of the metadata, the following message reveals itself:.<br/><br/>*^;.\\n't care how many titans she killed; Tali Acheron can suck my ba*#[]]/{",
+    description: "A xeno-type audio artifact apparently authored with intent to [UNKNOWN ERROR]. The energy signature of this data bundle matches that of [CORRUPTED TEXT]. Interaction appears safe, but may cause [DATABASE MISMATCH] if consumed in excess. Upon inspection of the metadata, the following message reveals itself:<br/><br/>*^;.\\n't care how many titans she killed; Tali Acheron can suck my ba*#[]]/{",
     releasedOn: '2023-11-04',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/07_Returnal.mp3",
   },
