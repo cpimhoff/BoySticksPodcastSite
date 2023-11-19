@@ -5,7 +5,7 @@ const ALL_EPISODES: Episode[] = [
     title: "Lies of P",
     slug: "lies-of-p",
     description: `<em>Ring ring!</em> Ah, another fine day on internet dot com, where half of all content is opinions quite wrong. Now pay close attention, for the time it has come... To answer this riddle, despite that it's dumb! This podcast is long, rambly, and extremely unnecessary. Options: (a) "BoySticks" by Dylan Forbes and Charlie Imhoff. (b) NPR's "Up First".`,
-    releasedOn: null,
+    releasedOn: '2023-11-18',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/08_Lies_of_P.mp3",
   },
   {
