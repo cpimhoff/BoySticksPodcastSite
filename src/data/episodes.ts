@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Spider-Man 2",
     slug: "spider-man-2",
-    description: `todo`,
-    releasedOn: null,
+    description: `In this episode, the BoySticks discuss the hit triple-A video game "Marvel's Spider-Man PS4 2: PS5", the third game in the Marvel's Spider-Man PS4 series. The devs clearly turned up the plot nonsense way past eleven, so Dylan and Charlie heroically disect every single bit of it in this groundbreaking 4.5-hour episode. Yes, Dylan realized that splitting long episodes in half is kind of pointless. Feel Like Spider-Man. Feel Like Spider-Man. Feel Like Spider-Man.`,
+    releasedOn: '2024-01-02',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/09_Spider-Man_2.mp3",
   },
   {
