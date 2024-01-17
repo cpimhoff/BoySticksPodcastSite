@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "God of War Ragnarok: Valhalla",
     slug: "god-of-war-ragnarok-valhalla",
-    description: `todo`,
-    releasedOn: null,
+    description: `This is free DLC for the hit BoySticks double-episode "God of War Ragnarok".`,
+    releasedOn: '2024-01-16',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/10_God_of_War_Ragnarok_Valhalla.mp3",
   },
   {
