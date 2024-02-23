@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "BoySticklers: Pillow Cube",
+    slug: "boysticklers-pillow-cube",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/11_BoySticklers_Pillow_Cube.mp3",
+  },
+  {
     title: "God of War Ragnarok: Valhalla",
     slug: "god-of-war-ragnarok-valhalla",
     description: `This is free DLC for the hit BoySticks double-episode "God of War Ragnarok".`,
