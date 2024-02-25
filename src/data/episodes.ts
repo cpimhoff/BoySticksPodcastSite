@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "BoySticklers: Pillow Cube",
     slug: "boysticklers-pillow-cube",
-    description: `todo`,
-    releasedOn: null,
+    description: `Introducing BoySticklers: the first podcast exclusively designed to fill your podcast hole and align your brain.`,
+    releasedOn: '2024-02-24',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/11_BoySticklers_Pillow_Cube.mp3",
   },
   {
