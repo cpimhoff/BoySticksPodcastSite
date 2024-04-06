@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Prince of Persia: The Lost Crown",
+    slug: "prince-of-persia-the-lost-crown",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/12_Prince_of_Persia_The_Lost_Crown.mp3",
+  },
+  {
     title: "BoySticklers: Pillow Cube",
     slug: "boysticklers-pillow-cube",
     description: `Introducing BoySticklers: the first podcast exclusively designed to fill your podcast hole and align your brain.`,
