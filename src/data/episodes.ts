@@ -5,11 +5,12 @@ const ALL_EPISODES: Episode[] = [
     title: "Prince of Persia: The Lost Crown",
     slug: "prince-of-persia-the-lost-crown",
     description: `SPOILERS FOR THE EPISODE!!!<br /> <br />
-    <b>S</b>: Hallownest, That Time Loop Glitch, Paste Without Formatting, &ldquo;relic&rdquo;, Shadow of the Simurgh, &ldquo;compassly wrong&rdquo;, &ldquo;playing the numbers&rdquo;, Forest Queen <br />
-    <b>A</b>: price point, Bow &amp; Arrow, <em>Godzilla x Kong: The New Empire</em>, Charlie, &ldquo;I&apos;m putting &lsquo;I&apos;m gonna put &ldquo;Compassly Right&rdquo; in F tier&rsquo; in A tier&rdquo;, Loki S1 <br/>
-    <b>B</b>: position in the market, Mount Qaf, Paste with Formatting, Orod, Menalias, Loki S2 <br/>
-    <b>C</b>: prologue, General Uvishka, map, Azhdaha, Map Girl <br/>
-    <b>D</b>: The Immortals, dyslexia, the logic for getting the bow, Old Royal Road, the Forge Goddess&apos;s Cans, the Chakrum, Dylan <br/>
+    <b>S</b>: Hallownest, That Time Loop Glitch, Paste Without Formatting, &ldquo;relic&rdquo;, Shadow of the Simurgh, &ldquo;compassly wrong&rdquo;, &ldquo;playing the numbers&rdquo;, Forest Queen, Vahram <br />
+    <b>A</b>: price point, Bow &amp; Arrow, <em>Godzilla x Kong: The New Empire</em>, Charlie, &ldquo;I&apos;m putting &lsquo;I&apos;m gonna put &ldquo;Compassly Right&rdquo; in F tier&rsquo; in A tier&rdquo;, Loki S1 <br />
+    <b>B</b>: position in the market, Mount Qaf, Paste with Formatting, Orod, Menolias, Loki S2 <br />
+    <b>C</b>: prologue, General Uvishka, map, Azhdaha, Map Girl <br />
+    <b>D</b>: The Immortals, dyslexia, the logic for getting the bow, Old Royal Road, the Chakram, Dylan <br />
+    <b>DD</b>: the Forge Goddess&apos;s Cans <br />
     <b>F</b>: &ldquo;Ubisoft Original&rdquo;, the Queen&apos;s plan, the menus, racism, &ldquo;I&apos;m gonna put &lsquo;Compassly Right&rsquo; in F tier&rdquo;, the completeness of this tier list <br />
     <b>X</b>: This episode`,
     releasedOn: '2024-04-10',
