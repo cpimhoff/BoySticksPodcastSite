@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "BoySticklers: Godzilla x Kong: The New Empire",
+    slug: "prince-of-persia-the-lost-crown",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/13_BoySticklers_Godzilla_x_Kong_The_New_Empire.mp3",
+  },
+  {
     title: "Prince of Persia: The Lost Crown",
     slug: "prince-of-persia-the-lost-crown",
     description: `SPOILERS FOR THE EPISODE!!!<br /> <br />
