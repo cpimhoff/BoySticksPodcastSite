@@ -5,7 +5,7 @@ const ALL_EPISODES: Episode[] = [
     title: "BoySticklers React: Godzilla x Kong: The New Empire",
     slug: "boysticklers-react-godzilla-x-kong-the-new-empire",
     description: `The BoySticklers have struck a licensee deal with Fine Bros Entertainiment to join REACT WORLD! Join them as they watch the new big monster movie without even mentioning any thorny topics such as racism. Please rest assured they will be back to talking about video games soon.`,
-    releasedOn: null,
+    releasedOn: '2024-06-02',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/13_BoySticklers_React_Godzilla_x_Kong_The_New_Empire.mp3",
   },
   {
