@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "BoySticklers React: The Book of Henry",
+    slug: "boysticklers-react-the-book-of-henry",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/14_BoySticklers_React_The_Book_of_Henry.mp3",
+  },
+  {
     title: "BoySticklers React: Godzilla x Kong: The New Empire",
     slug: "boysticklers-react-godzilla-x-kong-the-new-empire",
     description: `The BoySticklers have struck a licensee deal with Fine Bros Entertainiment to join REACT WORLD! Join them as they watch the new big monster movie without even mentioning any thorny topics such as racism. Please rest assured they will be back to talking about video games soon.`,
