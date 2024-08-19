@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "BoySticklers React: The Book of Henry",
     slug: "boysticklers-react-the-book-of-henry",
-    description: `todo`,
-    releasedOn: null,
+    description: `We can all talk about "making our mark," but isn't it just comfort food to stave off existential crisis? Our legacy isn't what we write on our resum&eacute; or how many commas are in your Apple Podcasts subscriber count. I mean, in the end, you're gonna realize that podcasting... isn't even an Olympic sport.`,
+    releasedOn: '2024-08-18',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/14_BoySticklers_React_The_Book_of_Henry.mp3",
   },
   {
