@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Suicide Squad: Kill the Justice League",
+    slug: "boysticklers-react-the-book-of-henry",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/15_Suicide_Squad_Kill_the_Justice_League.mp3"
+  },
+  {
     title: "BoySticklers React: The Book of Henry",
     slug: "boysticklers-react-the-book-of-henry",
     description: `We can all talk about "making our mark," but isn't it just comfort food to stave off existential crisis? Our legacy isn't what we write on our resum&eacute; or how many commas are in your Apple Podcasts subscriber count. I mean, in the end, you're gonna realize that podcasting... isn't even an Olympic sport.`,
