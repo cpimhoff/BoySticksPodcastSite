@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Suicide Squad: Kill the Justice League",
     slug: "boysticklers-react-the-book-of-henry",
-    description: `todo`,
-    releasedOn: null,
+    description: `This is Warner Bros Games publishing; they've got my back. They could fund all of you for twenty years, just like mowin' the lawn. I'd advise not getting acquired by them. Their business practices traps the souls of their games.`,
+    releasedOn: '2024-09-25',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/15_Suicide_Squad_Kill_the_Justice_League.mp3"
   },
   {
