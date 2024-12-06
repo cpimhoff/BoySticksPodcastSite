@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Final Fantasy VII Rebirth (Part 1)",
+    slug: "final-fantasy-vii-rebirth-part-1",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/16_Final_Fantasy_VII_Rebirth_1.mp3"
+  },
+  {
     title: "Suicide Squad: Kill the Justice League",
     slug: "boysticklers-react-the-book-of-henry",
     description: `This is Warner Bros Games publishing; they've got my back. They could fund all of you for twenty years, just like mowin' the lawn. I'd advise not getting acquired by them. Their business practices traps the souls of their games.`,
