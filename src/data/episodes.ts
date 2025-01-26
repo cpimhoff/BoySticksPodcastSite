@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Final Fantasy VII Rebirth (Part 4)",
+    slug: "final-fantasy-vii-rebirth-part-4",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/19_Final_Fantasy_VII_Rebirth_4.mp3"
+  },
+  {
     title: "Final Fantasy VII Rebirth (Part 3)",
     slug: "final-fantasy-vii-rebirth-part-3",
     description: `todo`,
