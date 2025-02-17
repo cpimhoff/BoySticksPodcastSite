@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Final Fantasy VII Rebirth",
     slug: "final-fantasy-vii-rebirth",
-    description: `todo`,
-    releasedOn: null,
+    description: `39,730 seconds til the end.`,
+    releasedOn: '2025-02-17',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/16_Final_Fantasy_VII_Rebirth.mp3"
   },
   {
