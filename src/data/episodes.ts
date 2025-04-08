@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Nine Sols",
+    slug: "nine-sols",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/17_Nine_Sols.mp3"
+  },
+  {
     title: "Final Fantasy VII Rebirth",
     slug: "final-fantasy-vii-rebirth",
     description: `39,730 seconds til the end.`,
