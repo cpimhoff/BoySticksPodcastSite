@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Nine Sols",
     slug: "nine-sols",
-    description: `todo`,
-    releasedOn: null,
+    description: `Content warning: Taiwanese independence.`,
+    releasedOn: '2025-05-04',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/17_Nine_Sols.mp3"
   },
   {
