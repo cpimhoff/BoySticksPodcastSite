@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Animal Well",
+    slug: "animal-well",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/18_Animal_Well.mp3"
+  },
+  {
     title: "Nine Sols",
     slug: "nine-sols",
     description: `Content warning: Taiwanese independence.`,
