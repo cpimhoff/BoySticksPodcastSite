@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Animal Well",
     slug: "animal-well",
-    description: `todo`,
-    releasedOn: null,
+    description: `YGAGCKGO.O.NEG.HNYEGUT.!U.`,
+    releasedOn: '2025-08-14',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/18_Animal_Well.mp3"
   },
   {
