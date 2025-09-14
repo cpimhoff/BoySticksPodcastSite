@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Clair Obscur: Expedition 33",
+    slug: "clair-obscur-expedition-33",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/19_Clair_Obscur_Expedition_33.mp3"
+  },
+  {
     title: "Animal Well",
     slug: "animal-well",
     description: `YGAGCKGO.O.NEG.HNYEGUT.!U.`,
