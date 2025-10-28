@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Clair Obscur: Expedition 33",
     slug: "clair-obscur-expedition-33",
-    description: `todo`,
-    releasedOn: null,
+    description: `Every year, the Mintstress mints a new token on the chainolith, and every hodler with diamond hands get his lambo.<br /><br />For those that got in early.`,
+    releasedOn: '2025-10-28',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/19_Clair_Obscur_Expedition_33.mp3"
   },
   {
