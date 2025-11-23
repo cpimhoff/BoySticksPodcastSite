@@ -2,6 +2,13 @@ import { Episode, RssChannel } from "./types";
 
 const ALL_EPISODES: Episode[] = [
   {
+    title: "Hollow Knight: Silksong",
+    slug: "hollow-knight-silksong",
+    description: `todo`,
+    releasedOn: null,
+    fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/20_Hollow_Knight_Silksong.mp3"
+  },
+  {
     title: "Clair Obscur: Expedition 33",
     slug: "clair-obscur-expedition-33",
     description: `Every year, the Mintstress mints a new token on the chainolith, and every hodler with diamond hands get his lambo.<br /><br />For those that got in early.`,
