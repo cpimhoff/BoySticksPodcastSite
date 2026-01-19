@@ -4,8 +4,8 @@ const ALL_EPISODES: Episode[] = [
   {
     title: "Hollow Knight: Silksong",
     slug: "hollow-knight-silksong",
-    description: `todo`,
-    releasedOn: null,
+    description: `Sorry for the delay everyone! I just had so much fun editing this episode. I would think things sound ok, but then discover new techniques to make things sound better, and so I'd have to go and apply them to the whole thing.`,
+    releasedOn: '2026-01-19',
     fileUrl: "https://boysticks-podcast.s3.amazonaws.com/episodes/20_Hollow_Knight_Silksong.mp3"
   },
   {
